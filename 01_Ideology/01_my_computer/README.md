@@ -1,7 +1,7 @@
 # My computer
 
 <div align="center">
-	<img src="https://raw.githubusercontent.com/davidgatti/my-development-setup/master/01_my_computer/images/mac_book_air_13.jpeg">
+	<img src="/01_Ideology/01_my_computer/images/mac_book_air_13.jpeg">
 </div>
 
 We need to start with the device on which the work is performed, and my weapon of choice is the 13” MacBook Air, because of its reliability and Apple support. Since this device helps me make money, I need a backup plan that works almost globally. Meaning that if it breaks down, it's going to be repaired the next day. If not, I can just buy a new one, log in, and pick up where I left off.
