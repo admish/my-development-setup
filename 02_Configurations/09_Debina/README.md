@@ -1,5 +1,6 @@
 # Bring Debian up to speed
 
+```bash
 sudo apt-get update && 
 sudo apt-get upgrade -y && 
 sudo apt-get install -y git && 
@@ -9,3 +10,4 @@ sudo apt-get install sudo &&
 sudo apt-get autoremove && 
 sudo apt-get clean &&
 sudo adduser $(users) sudo
+```
