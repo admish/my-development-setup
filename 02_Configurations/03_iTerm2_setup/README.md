@@ -1,7 +1,7 @@
 # My iTerm2 Setup
 
 <div align="center">
-	<img src="https://raw.githubusercontent.com/davidgatti/my-development-setup/master/07_iTerm2_setup/images/iTerm2_red.png">
+	<img src="/02_Configurations/03_iTerm2_setup/images/iTerm2_red.png">
 </div>
 
 Similarly to everything else I keep my iTerm 2 setup as simple as possible. Meaning I have just few changes and only two color schemes:
